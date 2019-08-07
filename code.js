@@ -33,3 +33,4 @@ phone.prototype.returnProperties = function(){
     return [properties, values];
 };
 console.log(myPhone.returnProperties());
+console.log('test');
