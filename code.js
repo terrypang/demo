@@ -14,7 +14,7 @@ phone.prototype = {
     }
 }
 
-var myPhone = new phone('Apple', 'Iphone 7');
+var myPhone = new phone('Huwawei', 'Mate');
 console.log(myPhone);
 console.log(Object.keys(myPhone));
 //Object.prototype
